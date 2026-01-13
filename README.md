@@ -7,7 +7,7 @@
  </div>
  
 ## Workshop:
-**The 11th International Workshop on Big Data Management and Service**
+**The 12th International Workshop on Big Data Management and Service**
 
 
 ## Abstract:
@@ -33,7 +33,8 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 
 ## Organizing Team
 
-* Prof. Yan Zhao, University of Electronic Science and Technology of China, China 
+* Prof. Yan Zhao, University of Electronic Science and Technology of China, China
+* Dr. Wei Yuan, University of Queensland, Australia
 * Prof. Xiaoling Wang, East China Normal University, China 
 * Prof. Kai Zheng, University of Electronic Science and Technology of China, China 
 
@@ -42,20 +43,20 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 ## Important Dates
 
 
-* Paper submission due: 20/03/2025
-* Notification of Acceptance: 26/03/2025
-* Camera-Ready Papers Due: 05/04/2025
-* Workshop date: 26/05/2025
+* Paper submission due: 28/02/2026
+* Notification of Acceptance: 28/03/2026
+* Camera-Ready Papers Due: 10/04/2026
+* Workshop date: 27/04/2026
 
 
 ## Publication
 
 DASFAA (Database Systems for Advanced Applications) is an annual international database conference, typically located in the Asia Pacific region, aimed at showcasing the state-of-the-art and the broad range of activities in database-related research and development. It provides a forum for technical presentations and discussions among database researchers, developers and users from academia, business and industry.
 
-The 28th DASFAA conference will be held from 26-29 May 2025 in Sinapore.
+The 29th DASFAA conference will be held from April 27-30, 2026 in Jeju Island, South Korea.
 
 Authors are invited to submit electronically original, English-language research contributions not concurrently submitted elsewhere. Accepted papers will be published by Springer as proceedings in Lecture Notes in Computer Science (LNCS). All submitted papers should be Springer LNCS camera-ready format. The style files are available from Springer LNCS site. All submissions files should be in PDF formats. The length of the paper could be 10 to 15 pages. The number of pages should not exceed 15 pages. Any paper more than 15 pages will be rejected.
 
 ## Submission
 
-Please submit your paper to zhaoyan@uestc.edu.cn with the title 'BDMS2025 Submission'.
+Please submit your paper to w.yuan@uq.edu.au with the title 'BDMS2026 Submission'.
